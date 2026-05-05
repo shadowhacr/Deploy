@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "username": "test_user",
+      "deploysToday": 1,
+      "deploysResetDate": "2026-05-05",
+      "credits": 0,
+      "joinDate": "2026-05-05T00:55:29.905Z"
+    }
+  ]
+}

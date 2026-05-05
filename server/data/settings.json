@@ -1,0 +1,16 @@
+{
+  "siteTitle": "ShadowDeploy",
+  "theme": {
+    "primaryColor": "#7c3aed",
+    "secondaryColor": "#06b6d4",
+    "backgroundColor": "#0a0a0f",
+    "surfaceColor": "#1a1a25"
+  },
+  "maintenanceMode": false,
+  "maintenanceMessage": "Website is under maintenance. We'll be back soon!",
+  "adminPasswordHash": "$2b$10$GnjKXpc1nyQ/S/0/AgF6ieb6KWupbmfscKzpHBwGzIlzDtLMRMcPK",
+  "contactInfo": {
+    "whatsapp": "+1234567890",
+    "telegram": "@shadowadmin"
+  }
+}

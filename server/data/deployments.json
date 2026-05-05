@@ -1,0 +1,40 @@
+{
+  "deployments": [
+    {
+      "siteId": "bw09sylk",
+      "username": "test_user",
+      "templateId": "saas-001",
+      "templateName": "SaaS Landing 1",
+      "url": "/sites/test_user/bw09sylk",
+      "deployDate": "2026-05-05T00:55:44.081Z",
+      "customizations": {
+        "title": "My Awesome Site",
+        "subtitle": "Built with ShadowDeploy",
+        "brandName": "MyBrand",
+        "ctaText": "Get Started",
+        "primaryButton": "Try Now",
+        "secondaryButton": "Learn More",
+        "heroImage": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800",
+        "featuresTitle": "Our Features",
+        "feature1Icon": "⚡",
+        "feature1Title": "Fast",
+        "feature1Desc": "Super fast performance",
+        "feature2Icon": "🔒",
+        "feature2Title": "Secure",
+        "feature2Desc": "Bank-grade security",
+        "feature3Icon": "📊",
+        "feature3Title": "Analytics",
+        "feature3Desc": "Real-time data",
+        "ctaTitle": "Get Started Today",
+        "ctaSubtitle": "Join thousands of users",
+        "ctaButton": "Sign Up Now",
+        "footerText": "© 2025 MyBrand",
+        "primaryColor": "#7c3aed",
+        "secondaryColor": "#06b6d4",
+        "backgroundColor": "#0f172a",
+        "textColor": "#f8fafc",
+        "cardBg": "#1e293b"
+      }
+    }
+  ]
+}
